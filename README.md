@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanchita
 - 👀 I’m an engineer with an interest in mathematics and technology
-- 🌱 I’m currently learning Data Science and working as a Data Science Trainee
+- 🌱 I’m currently working as a Data Scientist
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 If you are interested to collaborate reach me out at sspaulc@gmail.com
 
